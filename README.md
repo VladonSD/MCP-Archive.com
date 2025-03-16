@@ -4,11 +4,8 @@ A comprehensive catalog of Model Context Protocol (MCP) servers for enhancing AI
 
 * [What is MCP-Archive?](#what-is-mcp-archive)
 * [Features](#features)
-* [Technologies Used](#technologies-used)
 * [Getting Started](#getting-started)
-* [Community](#community)
 * [Contributing](#contributing)
-* [License](#license)
 
 ## What is MCP-Archive?
 
@@ -26,15 +23,6 @@ Our mission is to provide a centralized directory of MCP servers from companies,
 - **Educational Resources**: Information about the MCP protocol and how to build your own servers
 - **Community Contributions**: Submit your own MCP servers to the directory
 
-## Technologies Used
-
-MCP-Archive.com is built with modern web technologies:
-
-- **Next.js**: React framework for server-rendered applications
-- **Tailwind CSS**: Utility-first CSS framework for responsive design
-- **MongoDB**: NoSQL database for storing server information
-- **Vercel**: Deployment and hosting platform
-- **TypeScript**: Type-safe JavaScript for better development experience
 
 ## Getting Started
 
@@ -50,12 +38,6 @@ From there, you can:
 4. Read detailed information about each server
 5. Submit your own MCP server to our directory
 
-## Community
-
-Join our community to discuss MCP servers, share your experiences, and get help:
-
-* [r/mcp Reddit](https://www.reddit.com/r/mcp)
-* [Discord Server](https://glama.ai/mcp/discord)
 
 ## Contributing
 
@@ -64,10 +46,6 @@ We welcome contributions to MCP-Archive.com! If you've developed an MCP server o
 [Submit your MCP Server](https://mcp-archive.com/submit)
 
 For other contributions, such as website improvements or bug reports, please contact us through our website.
-
-## License
-
-All content on MCP-Archive.com is licensed under [MIT License](LICENSE) unless otherwise noted.
 
 ---
 
