@@ -49,4 +49,4 @@ For other contributions, such as website improvements or bug reports, please con
 
 ---
 
-© 2024 MCP-Archive.com. All rights reserved.
+© 2025 MCP-Archive.com. All rights reserved.
